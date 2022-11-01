@@ -22,7 +22,7 @@ Java skills. Feel free to download and edit the code. Oh...and be careful with v
 <br/>
 
 ### **Complete stuff:**
-Play button, reset button and pause button. Eveything works fine.
+The sample is handled fine.
 <br/>
 <br/>
 
